@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "nanoBaseCheck": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Nanosoft\\nanoCAD x64 23.0\\nCad.exe",
+      "commandLineArgs": "-g $(TargetPath)"
+    }
+  }
+}
